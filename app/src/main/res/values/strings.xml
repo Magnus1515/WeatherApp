@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="projectApp">Weather App</string>
+    <string name="min">min: 12\u2103</string>
+    <string name="current">21\u2103</string>
+    <string name="max">max: 28\u2103</string>
+    <string name="min_text">min: %s %s</string>
+    <string name="current_text">%s %s</string>
+    <string name="max_text">max: %s %s</string>
+    <string name="celcius">\u2103</string>
+</resources>
